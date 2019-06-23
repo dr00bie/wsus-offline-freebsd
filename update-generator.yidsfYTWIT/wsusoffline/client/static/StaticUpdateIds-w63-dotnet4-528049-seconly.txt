@@ -1,0 +1,1 @@
+kb4495625,May 2019 Security Only update for the .NET Framework 4.8 for Windows 8.1 and Windows Server 2012 R2

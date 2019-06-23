@@ -1,0 +1,2 @@
+http://download.microsoft.com/download/8/1/4/814188A4-34EB-4EAE-B15B-AD35F40822E3/proplussp2013-kb2817430-fullfile-x86-en-us.exe
+http://download.microsoft.com/download/A/E/0/AE070289-1BCF-4E14-A675-D33A134F451E/proplussp2013-kb2817430-fullfile-x64-en-us.exe

@@ -1,0 +1,6 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha1,sha256,filename
+## Invoked from: /media/wsus-offline/wsusoffline/client/md
+## $ hashdeep -c md5,sha1,sha256 -l -r ../wsus
+## 
+524195940,04aaec9821fec783448ad5d4e757c1bf,e1d50cfb87365dda43d6d8038d6045470c1c1e3f,37ce77f6ab493b5027aba0d083ab5152c2be2037b563fa64b6ba4eb84c51af3d,../wsus/wsusscn2.cab

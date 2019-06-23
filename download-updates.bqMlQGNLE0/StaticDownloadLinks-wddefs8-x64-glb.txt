@@ -1,0 +1,2 @@
+http://definitionupdates.microsoft.com/download/DefinitionUpdates/NRI/amd64/nis_full.exe,nis_full_x64.exe
+http://go.microsoft.com/fwlink/?LinkID=121721&arch=x64

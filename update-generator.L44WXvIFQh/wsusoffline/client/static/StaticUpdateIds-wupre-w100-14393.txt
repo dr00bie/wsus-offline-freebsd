@@ -1,0 +1,2 @@
+kb4132216,May 2018 Servicing stack update for Windows Server 2016 and Windows 10 Version 1607
+kb4498947,May 2019 Servicing stack update for Windows Server 2016 and Windows 10 Version 1607

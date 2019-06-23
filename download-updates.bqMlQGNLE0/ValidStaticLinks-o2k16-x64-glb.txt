@@ -1,0 +1,10 @@
+http://download.microsoft.com/download/1/4/1/1413074C-87B4-412F-B0B1-6ECBBDD970FA/eqnedt322016-kb4011574-fullfile-x64-glb.exe
+http://download.microsoft.com/download/1/C/B/1CB45E2B-77DE-42C6-930A-8B7768C5F668/visio2016-kb3115041-fullfile-x64-glb.exe
+http://download.microsoft.com/download/4/A/D/4AD4C749-912C-422D-93A9-7F70F7E287E1/conv2016-kb3213551-fullfile-x64-glb.exe
+http://download.microsoft.com/download/4/F/A/4FAF7109-F02B-4155-BEF7-B03E7B28B1B1/lync2016-kb4461473-fullfile-x64-glb.exe
+http://download.microsoft.com/download/5/4/4/5444EA6C-EDA6-48B0-9B97-7F55B0268FEF/lync2016-kb4461473-fullfile-x86-glb.exe
+http://download.microsoft.com/download/7/F/0/7F03311A-8665-4436-B69D-2487CEB5CCB9/project2016-kb4461478-fullfile-x64-glb.exe
+http://download.microsoft.com/download/B/1/8/B1898198-4774-45DE-AA79-3089603F5BC4/eqnedt322016-kb4011574-fullfile-x86-glb.exe
+http://download.microsoft.com/download/C/4/6/C46C4441-44AF-4841-A637-F0C0F49BE476/visio2016-kb3115041-fullfile-x86-glb.exe
+http://download.microsoft.com/download/D/9/B/D9B5EB90-2F6A-4880-AFEC-98BB3A2B41C7/project2016-kb4461478-fullfile-x86-glb.exe
+http://download.microsoft.com/download/F/7/C/F7C4E06B-26A9-4A8B-8AD4-672FCF8355DD/conv2016-kb3213551-fullfile-x86-glb.exe

@@ -1,0 +1,17 @@
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2015/02/msointl-en-us_e177c899869881375db04f69e93c9ce621a22d20.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/msointl-en-us_cbb2e8d950e9de471c4b7770b6699032dde0ef98.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/powerpointintl-en-us_262f44edceec03e27c471c782e02d6089bbc2efd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2015/02/powerpointintl-en-us_71124f27c703a6963e45759ac75de135d2293ac7.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/07/snapview_3ce0607884774566760d7dfb39128c2549685a7b.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2008/07/snapview_6addd347bf8e3d812bd4eed5367c165aa585d6e5.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/05/office2003-kb969615-fullfile-x86-en-us_569b2da6e319f00e23edf02254d0dac06f7f5992.exe
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/05/works432_14bcfcd89ea6731fcb5a7b4f64305b8708c1680a.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/07/officesmallbusinessaccounting2006-kb968377-fullfile-enu_2fd6ccbea2535ffdf6ae8b0f45026719b0208bda.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/msconv_0d96c7a0f6a7bb6e15ee79a78d1fb4e6dd2b1b3a.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2009/11/msconv_6242086538a81d79be0bbad963a7e6bbb9470a97.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/olkintl_0a35ae770b7ec9e0cfec45f91bc16c96b4dd6230.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/09/olkintl_f14b49d03fb558bf06dcaf3ce78c4822389a90ae.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/gpfilt_ba5563cf317caee66dc0a16081682c669e4f5251.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/gpfilt_f86338f746ba4aa86b88a6823f4444caae326e46.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/msconv_5737aea13ac1e15d984ae632830267ef9ff28ba1.cab
+http://download.windowsupdate.com/msdownload/update/software/secu/2010/12/ocpgpflt_abe354f038000e73333355539c5d6562690f110f.cab

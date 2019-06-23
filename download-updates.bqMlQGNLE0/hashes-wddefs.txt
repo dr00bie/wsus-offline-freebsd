@@ -1,0 +1,6 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha1,sha256,filename
+## Invoked from: /media/wsus-offline/wsusoffline/client/md
+## $ hashdeep -c md5,sha1,sha256 -l -r ../wddefs
+## 
+61916360,6a3c0f36cd889b42d3553441141f2442,1bd73b01308a85f31f6ccffb699ff3123585a3bc,2daca27d5d9f02604b1e16f74003416acce22602ed9d7968f426e928ec9dd3fc,../wddefs/x86-glb/mpas-fe.exe
